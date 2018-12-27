@@ -3,6 +3,7 @@ User Interface Software for the AG954 Evaluation Kit (ASR002 Smart TMR Angle Sen
 Requires Windows 7 or later.
 
 Installation Instructions:
+
     Download the software installation package
     Run setup.exe to begin installation.
     Follow prompts for installing the NVE software and supporting National Instruments files.
